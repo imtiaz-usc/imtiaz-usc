@@ -1,7 +1,7 @@
-### Hi there 👋
-
-<!--
-**imtiaz-usc/imtiaz-usc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Imtiaz Uddin</h1>
 
 Here are some ideas to get you started:
 
