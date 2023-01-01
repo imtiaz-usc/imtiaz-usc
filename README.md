@@ -4,7 +4,7 @@
          width="45" /> My name is Imtiaz</h1>
 
 About Me:
-- 👨‍🎓 Currently, I’m a rising Senior at USC majoring in Electrical and Computer Engineering.
+- 👨‍🎓 Currently, I’m a Senior at USC majoring in Electrical and Computer Engineering.
 - 💡 I'm a Gates Millennium Scholar on a full-ride scholarship looking to further improve my product management, creative thinking, and technical skills. 
 - 💫 I have over 2 years of experience in product management and software engineering. These include interning for Boeing over two consecutive summers, interning at a B2B startup, and personal projects and leadership.
 - 🙌 As a current Engineering student, I'm always looking for ways to grow and reach my full potential.
