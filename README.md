@@ -3,7 +3,7 @@
          height="45"
          width="45" /> My name is Imtiaz</h1>
 
-About Me:
+A Little Bit About Me:
 - 💡 I started my career as an engineer, earning my degree in Electrical and Computer Engineering from the University of Southern California. As I worked on building systems, I became increasingly curious about the 'why' behind product decisions—the strategy, the customer needs, and how technical execution drives business outcomes. That curiosity led me into product management, where I now translate complex challenges into scalable, high-value solutions.
 - 💫 I’ve worked at Microsoft, AT&T, Boeing, and startups like Export Portal, leading cross-functional teams to drive adoption, optimize user experience, and boost revenue through data-backed strategies. My experience spans AI, enterprise security, SMB strategy, and full-stack development, allowing me to bridge the gap between business needs and engineering execution seamlessly.
 - 🙌 As a technically adept Product Manager, I thrive on challenges that push me to grow—whether that’s shaping product strategy, leading engineering discussions, or driving high-impact initiatives. I'm always eager to collaborate, learn, and refine my craft.
